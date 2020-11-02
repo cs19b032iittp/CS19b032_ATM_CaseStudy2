@@ -1,23 +1,20 @@
 # CS19b032_ATM_CaseStudy2
 There are Three important Classes
+
 They are Main , Account , TransactionEntry
 
 
-/**
- *  There is  Main class that performs the actions that customer wants to do
- */
- /**
+ There is  Main class that performs the actions that customer wants to do.
  
  
- * And there is class named Account which has the data of the Customer (name , account number ,pin balance ,transaction history
- * and it has methods to perform required activities like
- * Withdraw, Deposit , Change Pin ...
- */
  
+ And there is class named Account which has the data of the Customer (name , account number ,pin balance ,transaction history
+ and it has methods to perform required activities like
+ Withdraw, Deposit , Change Pin ...
+
  
- /**
- * Here is class Named TransactionEntry that Saves the data of Transactions of Customers
- */
+and There  is class Named TransactionEntry that Saves the data of Transactions of Customers.
+
  
  
  I have used Encapsulation in this Case Study
